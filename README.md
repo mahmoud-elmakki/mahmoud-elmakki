@@ -1,8 +1,27 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I, am Mahmoud Salah Eldin, Thank you for your visit!
+#### I'm Mahmoud Salah Eldin, Thank you for your visit!
 
-Deep Learning and Artifital Intelligence researcher, Practical Machine Learning Engineer, with +3 years of experience and continues learning. Running my own Artifitial intelligence organization in Sudan, Seeking to advance career as a Software and AI Developer.
+### Let Me introduce myself to you,
+Deep Learning and Artifital Intelligence researcher, Practical Machine Learning Engineer, and a Django web Developer. with +3 years of experience in Software Development and continues learning. Running my own Artifitial intelligence organization in Sudan, Seeking to advance career as a Software and AI Developer.
+
+## Interests:
+
+Machine Learning
+Web Development
+Artifitial General Intelligence (AGI)
+The Human Brain
+Neuroscience
+Bran-Computer Interface (BCI)
+Neurobiology
+Mathematics
+Neuropsychology
+Astronomy
+Philosophy
+Literature
+Classical Music
+Art
+
 
 
 <!--
