@@ -46,12 +46,12 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 
 ## Me In AI
 
+Interested in building Machine Learning Systems for production, have build couple of systems for some real life applications.
+
 Founded a Data Science and Artificial intelligence Organization, named Deep Horizon. Which focoused on:
 - Facilitating and improving lives by developing and impelementing technological systems based on computer science, data science and AI.
 - offering products and solutions which make our clients able to exploit the power of AI and reach ulmate levels of efficiency and time investment.
 - Building a strong base, and prepare the circumstances for an all-set scientific research environment in Sudan.
-
-- Interested in building Machine Learning Systems for production, have build couple of systems for some real life applications.
 
 
 Me In Web Development
