@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-#### I am Mahmoud S. Mahdi, Thank you for your visit ! Let me introduce myself to you,
+#### I My name is Mahmoud S. Mahdi, Thank you for your visit ! Let me introduce myself to you,
 I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Learning Engineer, and a Django web Developer. with +3 years of experience in Software Development and continues learning. Running my own Artifitial intelligence organization in Sudan, Seeking to advance career as a Software and AI Developer.
 
 
@@ -54,18 +54,20 @@ Founded a Data Science and Artificial intelligence Organization, named Deep Hori
 - Building a strong base, and prepare the circumstances for an all-set scientific research environment in Sudan.
 
 
-Me In Web Development
+## Me In Web Development
 
 Building full-featured web applications, from the backend development to the user interface design.
 I love building cool shit with Django! It's a very neat and amazing web framework to use.
 
 
-Me as a Freelance Graphic Designer
+## Me as a Freelance Graphic Designer
 
-Once in a while I got offers for doing...
+Once in a while I got offers and orders to do some...
 - Social media content creation.
 - Logo / Poster / banner Dessign.
 - Video Editing.
+
+
 
 
 
