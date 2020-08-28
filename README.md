@@ -68,6 +68,18 @@ Once in a while I got offers and orders to do some...
 - Video Editing.
 
 
+## Contact:
+
+You ganna find me goofing around once in a while on Twitter:
+https://twitter.com/hota_Salah?s=08
+
+If you got your way all through till your reached this README, I think we can be friends on facebook:
+https://www.facebook.com/profile.php?id=100003117683518
+
+Also you can reach me on LinkedIn:
+https://www.linkedin.com/in/mahmoud-salah-eldin-0ab198190
+
+
 
 
 
