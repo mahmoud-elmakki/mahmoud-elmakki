@@ -1,12 +1,13 @@
 # Hi there 👋
 
 #### My name is Mahmoud S. Mahdi, Thank you for your visit! Let me introduce myself to you,
-I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Learning Engineer, and a Django web Developer. with +3 years of experience in Software Development، and continues learning. Running my own Artifitial intelligence organization, Seeking to advance career as a Software and AI Developer.
+I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Learning Engineer, and a Django web Developer. with +3 years of experience in Software Development، and continues learning. Running my own Artifitial intelligence organization. Passionate for Neuroscience and brain-computer interface. Seeking to advance career as a Software and AI Developer.
 
 
 ## Interests:
 
 - Machine Learning
+- Bayesian Deep Learning
 - TinyML
 - Generative Adversarial Networks (GANs)
 - Computer Vision (CV)
