@@ -31,6 +31,9 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 ## Programming Languages/Frameworks/Tools those I use much often:
 
 - Python
+- TensorFlow
+- keras
+- Scikit Learn
 - Pandas
 - Matplotlib
 - C / C++
@@ -40,9 +43,6 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 - Django
 - React
 - HTML / CSS
-- TensorFlow
-- keras
-- Scikit Learn
 
 
 ## Me In AI
