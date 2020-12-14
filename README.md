@@ -41,8 +41,10 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 - SQL
 - MATLAB
 - Django
+- Node.js
 - React
-- HTML / CSS
+- HTML/CSS
+- JavaScript
 
 
 ## Me In AI
