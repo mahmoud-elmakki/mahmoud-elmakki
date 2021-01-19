@@ -7,24 +7,12 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 ## Interests:
 
 - Machine Learning
-- Bayesian Deep Learning
-- TinyML
-- Generative Adversarial Networks (GANs)
-- Computer Vision (CV)
-- Artifitial General Intelligence (AGI)
-- Web Development
-- Neuroscience
-- The Human Brain
-- Brian-Computer Interface (BCI)
-- Brain Imaging.
-- Neurobiology
+- Neuroscienc
+- Psychology
+- Neurophysics
 - Mathematics
-- Neuropsychology
-- Astronomy
 - Philosophy
-- Literature
 - Classical Music
-- Graphic Design
 - Art
 
 
