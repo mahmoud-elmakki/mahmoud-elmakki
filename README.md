@@ -59,16 +59,17 @@ Building full-featured web applications, from the backend development to the use
 I love building cool shit with Django! It's a very neat and amazing web framework to use.
 
 #### languages/tools/frameworks:
+
 backend:
 - Pytohn / Django
 - JavaScript / Node.js
-- .Net / C# <br />
-Databases:
+- .Net / C# <br />Databases:
 - SQL
 - PostgreSQL
 - Oracle
 - Object Databases
-(no specific) <br /> 
+(no specific)
+
 frontend:
 - HTML / CSS
 - JavaScript
@@ -76,6 +77,7 @@ frontend:
 - TailwindCSS
 - Figma
 - Adobe XD
+
 Mobile Applications:
 - Flutter
 - Android / Java
