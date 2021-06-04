@@ -45,7 +45,7 @@ Interested in building Machine Learning Systems for production, have build coupl
 - PyTorch
 - Fast ai
 - Streamlit
-And other application-specific libraries, packages and tools.
+- And other application-specific libraries, packages and tools.
 
 Founded a Data Science and Artificial intelligence Organization, named Deep Horizon. Which focoused on:
 - Facilitating and improving lives by developing and impelementing technological systems based on computer science, data science and AI.
@@ -66,6 +66,8 @@ backend:
 Databases:
 - SQL
 - PostgreSQL
+- Oracle
+- Object Databases
 (no specific)
 frontend:
 - HTML / CSS
