@@ -38,6 +38,14 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 
 Interested in building Machine Learning Systems for production, have build couple of systems for some real life applications.
 
+#### languages/tools/frameworks:
+- TensorFlow
+- Keras
+- Scikit Learn
+- PyTorch
+- Fast ai
+- Streamlit
+
 Founded a Data Science and Artificial intelligence Organization, named Deep Horizon. Which focoused on:
 - Facilitating and improving lives by developing and impelementing technological systems based on computer science, data science and AI.
 - offering products and solutions which make our clients able to exploit the power of AI and reach ulmate levels of efficiency and time investment.
@@ -55,12 +63,21 @@ backend:
 - JavaScript / Node.js
 - .Net / C#
 Databases:
-
+- SQL
+- PostgreSQL
+(no specific)
 frontend:
 - HTML / CSS
 - JavaScript
 - React
 - TailwindCSS
+- Figma
+- Adobe XD
+Mobile Applications:
+- Flutter
+- Android / Java
+- React Naive
+- .Net
 
 I'm continually learning new skills and techniques, this list may be changed by literally by ant day!
 
