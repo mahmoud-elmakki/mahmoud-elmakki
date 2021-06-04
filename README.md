@@ -63,7 +63,7 @@ backend:
 - Pytohn / Django
 - JavaScript / Node.js
 - .Net / C#
-Databases:c
+Databases:
 - SQL
 - PostgreSQL
 - Oracle
