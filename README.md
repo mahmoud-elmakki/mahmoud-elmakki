@@ -17,7 +17,7 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 - Art
 
 
-## Programming Languages/Frameworks/Tools those I use much often:
+### Programming Languages/Frameworks/Tools those I use much often:
 
 - Python
 - TensorFlow
