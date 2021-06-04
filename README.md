@@ -49,6 +49,21 @@ Founded a Data Science and Artificial intelligence Organization, named Deep Hori
 Building full-featured web applications, from the backend development to the user interface design.
 I love building cool shit with Django! It's a very neat and amazing web framework to use.
 
+#### languages/tools/frameworks:
+backend:
+- Pytohn / Django
+- JavaScript / Node.js
+- .Net / C#
+Databases:
+
+frontend:
+- HTML / CSS
+- JavaScript
+- React
+- TailwindCSS
+
+I'm continually learning new skills and techniques, this list may be changed by literally by ant day!
+
 
 ## Me as a Freelance Graphic Designer
 
