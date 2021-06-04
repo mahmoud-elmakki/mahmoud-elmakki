@@ -63,7 +63,9 @@ I love building cool shit with Django! It's a very neat and amazing web framewor
 backend:
 - Pytohn / Django
 - JavaScript / Node.js
-- .Net / C# <br />Databases:
+- .Net / C#
+
+Databases:
 - SQL
 - PostgreSQL
 - Oracle
