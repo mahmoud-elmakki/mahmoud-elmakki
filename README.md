@@ -8,9 +8,10 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 
 - Machine Learning
 - Neuroscienc
+- Bioinformatics
 - Psychology
-- Neurophysics
 - Mathematics
+- Physics
 - Philosophy
 - Classical Music
 - Art
@@ -20,6 +21,8 @@ I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Le
 
 - Python
 - TensorFlow
+- PyTorch
+- Streamlit
 - keras
 - Scikit-Learn
 - Java
