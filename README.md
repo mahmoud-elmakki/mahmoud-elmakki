@@ -43,6 +43,7 @@ Interested in building Machine Learning Systems for production, have build coupl
 - Keras
 - Scikit Learn
 - PyTorch
+- Jax
 - Fast ai
 - Streamlit
 - and other application-specific libraries, packages and tools.
