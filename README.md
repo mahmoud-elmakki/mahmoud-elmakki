@@ -76,14 +76,14 @@ Databases:
 frontend:
 - HTML / CSS
 - JavaScript
-- React
+- React.js
+- Vue.js
 - TailwindCSS
 - Figma
 - Adobe XD
 
 Mobile Applications:
-- Flutter
-- Android / Java
+- Kotlin
 - React Naive
 - .Net
 
