@@ -31,6 +31,7 @@ https://www.qwiklabs.com/public_profiles/edfb92da-98aa-428a-a0d0-4b16a7e26ca8
 - SQL
 - Django
 - Node.js
+- .Net
 - React
 - HTML/CSS
 - JavaScript
@@ -66,7 +67,7 @@ I love building cool shit with Django! It's a very neat and amazing web framewor
 backend:
 - Pytohn / Django
 - JavaScript / Node.js
-- .Net / C#
+- C# / ASP.NET Core
 
 Databases:
 - SQL
@@ -76,20 +77,16 @@ Databases:
 (no specific)
 
 frontend:
-- HTML / CSS
-- JavaScript
 - React.js
 - Vue.js
-- TailwindCSS
 - Figma
 - Adobe XD
 
 Mobile Applications:
-- Kotlin
 - React Naive
 - .Net
 
-I'm continually learning new skills and techniques, this list may be changed by literally by ant day!
+I'm continually learning new skills and techniques, this list may be changed, literally, any day!
 
 
 ## Me as a Freelance Graphic Designer
