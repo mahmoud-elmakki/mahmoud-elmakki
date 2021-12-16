@@ -66,7 +66,7 @@ I love building cool shit with Django! It's a very neat and amazing web framewor
 #### languages/tools/frameworks:
 
 backend:
-- Pytohn / Django
+- Python / Django
 - JavaScript / Node.js
 - C# / ASP.NET Core
 
