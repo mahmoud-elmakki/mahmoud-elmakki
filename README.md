@@ -26,6 +26,7 @@ https://www.qwiklabs.com/public_profiles/edfb92da-98aa-428a-a0d0-4b16a7e26ca8
 - PyTorch
 - Streamlit
 - keras
+- Jax
 - Scikit-Learn
 - Java
 - SQL
