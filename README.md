@@ -34,7 +34,8 @@ https://www.qwiklabs.com/public_profiles/edfb92da-98aa-428a-a0d0-4b16a7e26ca8
 
 ## Me In AI
 
-Interested in building Machine Learning Systems for production, have build couple of systems for some real life applications.
+Interested in building Machine Learning Systems for production, have build couple of systems for some real life application.
+Following my scientific eagerness for Deep Learning research.
 
 #### languages/tools/frameworks:
 - TensorFlow
