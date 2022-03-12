@@ -3,6 +3,9 @@
 #### I'm Mahmoud S. Mahdi, Thank you for your visit! Let me introduce myself to you,
 I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Learning Engineer, and a Backend Web Developer. with +3 years of experience in Software Development، and continues learning. Running my own Artifitial intelligence organization. Passionate for Neuroscience and brain-computer interface. Seeking to advance my career as a Software and AI Developer.
 
+#### LinkedIn:
+https://www.linkedin.com/in/mahmoud-salah-eldin-0ab198190
+
 #### Google Colud Qwiklabs Profile:
 https://www.qwiklabs.com/public_profiles/edfb92da-98aa-428a-a0d0-4b16a7e26ca8
 
