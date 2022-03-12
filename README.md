@@ -9,6 +9,7 @@ https://www.linkedin.com/in/mahmoud-salah-eldin-0ab198190
 #### Google Colud Qwiklabs Profile:
 https://www.qwiklabs.com/public_profiles/edfb92da-98aa-428a-a0d0-4b16a7e26ca8
 
+
 ## Interests:
 
 - Machine Learning
@@ -23,22 +24,11 @@ https://www.qwiklabs.com/public_profiles/edfb92da-98aa-428a-a0d0-4b16a7e26ca8
 - Art
 
 
-### Programming Languages/Frameworks/Tools those I use much often:
-
+### Coding Craft Bag:
 - Python
-- TensorFlow
-- PyTorch
-- Streamlit
-- keras
-- Jax
-- Scikit-Learn
+- Go
 - Java
-- SQL
-- Django
-- Node.js
-- .Net
-- React
-- HTML/CSS
+- C#
 - JavaScript
 
 
@@ -98,7 +88,7 @@ I'm continually learning new skills and techniques, this list may be changed, li
 
 Once in a while I got offers and orders to do some...
 - Social media content creation.
-- Logo / Poster / banner Dessign.
+- Logo / Poster / banner Design.
 - Video Editing.
 
 
