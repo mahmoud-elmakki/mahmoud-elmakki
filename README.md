@@ -26,9 +26,9 @@ https://www.qwiklabs.com/public_profiles/edfb92da-98aa-428a-a0d0-4b16a7e26ca8
 
 ### Coding Craft Bag:
 - Python
-- Go
-- Java
 - C#
+- Java
+- Go
 - JavaScript
 
 
@@ -85,7 +85,7 @@ Mobile Applications:
 I'm continually learning new skills and techniques, this list may be changed, literally, any day!
 
 
-## Me as a Freelance Graphic Designer
+## Me as a Freelance Digital Artist
 
 Once in a while I got offers and orders to do some...
 - Social media content creation.
