@@ -1,7 +1,7 @@
 # Hello World 👋
 
 #### I'm Mahmoud Elmakki, Thank you for your visit! Let me introduce myself to you,
-I am a Deep Learning and Artifital Intelligence researcher, Practical Machine Learning Engineer, and a Backend Web Developer. with +3 years of experience in Software Development، and continues learning. Running my own Artifitial intelligence organization. Passionate for Neuroscience and brain-computer interface. Seeking to advance my career as a Software and AI Developer.
+In mid Sep 2022 I've started my final year of my five-year bachelor of Engineering in Electrical and Electronic Engineering. Integrated with a four-year journey of learning and self-studying programming, Computer Science, Deep Learning and Computational Neuroscience. All combined with my theoratical and practical knowledge in Machine Learning, made me able, in my third year, to find work positions, both as Software Engineer and Machine Learning Engineer.
 
 #### LinkedIn:
 https://www.linkedin.com/in/mahmoud-salah-eldin-0ab198190
