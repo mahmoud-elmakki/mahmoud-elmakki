@@ -1,7 +1,7 @@
 # Hello World
 
 #### I'm Mahmoud Elmakki, Thank you for your visit! Let me introduce myself to you,
-The journey of my five-year BSc in Electrical and Electronic Engineering was integrated with a journey of learning and self-studying programming, Computer Science, Deep Learning and Computational Neuroscience. All combined with my theoratical and practical knowledge in Machine Learning, made me able to find work positions, both as Software Engineer and Machine Learning Engineer.
+An ex Software Developer and Machine Learning Engineer. BSc with honours in Electrical and Electronic Engineering from the University of Khartoum, Sudan (Thesis title: Neural Dynamics and  Latent Factor Analysis for Movement Intention Detection Using Intra-Cortical Brain-Computer Interfaces). Currently, a Technical Research Assistant / Master's student at the Neural Dynamics Lab (Memming Park Lab) at the Champalimaud Centre for the Unknown, Lisbon, Portugal.
 
 Member of  
 [Black in Neuro](https://blackinneuro.com/) and [Black in AI](https://blackinai.github.io/#/)
