@@ -12,10 +12,10 @@ Member of
 mahmoud.s.elmakki@gmail.com 
 
 #### LinkedIn:
-https://www.linkedin.com/in/mahmoud-elmakki-0ab198190
+[Mahmoud Elmakki]https://www.linkedin.com/in/mahmoud-elmakki-0ab198190
 
 #### Twitter:
-https://twitter.com/mahmoud_elmakki?s=09
+[@gvrningdynamics]https://x.com/gvrningdynamics?t=Vuwz5LgCEaZ2Me2O8uMtXw&s=09
 
 #### Facebook:
-https://www.facebook.com/profile.php?id=100003117683518
+[Mahmoud Elmakki]https://www.facebook.com/profile.php?id=100003117683518
