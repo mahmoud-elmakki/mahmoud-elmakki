@@ -15,7 +15,7 @@ mahmoud.s.elmakki@gmail.com
 [Mahmoud Elmakki](https://www.linkedin.com/in/mahmoud-elmakki-0ab198190)
 
 #### Twitter:
-[@gvrningdynamics](https://x.com/gvrningdynamics?t=Vuwz5LgCEaZ2Me2O8uMtXw&s=09)
+[@mahmoud_elmakki](https://x.com/gvrningdynamics?t=Vuwz5LgCEaZ2Me2O8uMtXw&s=09)
 
 #### Facebook:
 [Mahmoud Elmakki](https://www.facebook.com/profile.php?id=100003117683518)
